@@ -1,0 +1,112 @@
+{
+  "snapshot_date": "2026-10-01",
+  "source": "Sleeper public API, retrieved by the maintainer; private league and account identifiers omitted",
+  "season": "2026",
+  "draft_date_local": "2026-09-15",
+  "draft_timezone": "America/Los_Angeles",
+  "league_teams": 6,
+  "scoring": "full PPR",
+  "draft_type": "snake",
+  "draft_slot": 5,
+  "rounds": 14,
+  "bench_spots": 5,
+  "league_scoring_start_week": 2,
+  "last_completed_scoring_week": 3,
+  "wins": 2,
+  "losses": 0,
+  "ties": 0,
+  "points_for": 333.28,
+  "points_for_rank": 1,
+  "record_context": "Tied-best record; not a final season finish",
+  "picks": [
+    {
+      "round": 1,
+      "overall_pick": 5,
+      "player": "Amon-Ra St. Brown",
+      "position": "WR"
+    },
+    {
+      "round": 2,
+      "overall_pick": 8,
+      "player": "Jonathan Taylor",
+      "position": "RB"
+    },
+    {
+      "round": 3,
+      "overall_pick": 17,
+      "player": "Josh Allen",
+      "position": "QB"
+    },
+    {
+      "round": 4,
+      "overall_pick": 20,
+      "player": "Trey McBride",
+      "position": "TE"
+    },
+    {
+      "round": 5,
+      "overall_pick": 29,
+      "player": "Chris Olave",
+      "position": "WR"
+    },
+    {
+      "round": 6,
+      "overall_pick": 32,
+      "player": "Kyren Williams",
+      "position": "RB"
+    },
+    {
+      "round": 7,
+      "overall_pick": 41,
+      "player": "David Montgomery",
+      "position": "RB"
+    },
+    {
+      "round": 8,
+      "overall_pick": 44,
+      "player": "Garrett Wilson",
+      "position": "WR"
+    },
+    {
+      "round": 9,
+      "overall_pick": 53,
+      "player": "D'Andre Swift",
+      "position": "RB"
+    },
+    {
+      "round": 10,
+      "overall_pick": 56,
+      "player": "Christian Watson",
+      "position": "WR"
+    },
+    {
+      "round": 11,
+      "overall_pick": 65,
+      "player": "Rome Odunze",
+      "position": "WR"
+    },
+    {
+      "round": 12,
+      "overall_pick": 68,
+      "player": "Jalen Coker",
+      "position": "WR"
+    },
+    {
+      "round": 13,
+      "overall_pick": 77,
+      "player": "Houston Texans",
+      "position": "DEF"
+    },
+    {
+      "round": 14,
+      "overall_pick": 80,
+      "player": "Evan McPherson",
+      "position": "K"
+    }
+  ],
+  "limitations": [
+    "One team over two scored matchups; no control group.",
+    "The draft API records selections, not which recommendations were followed.",
+    "Points-for rank is calculated from league roster totals; it is not a final placement or Sleeper draft grade."
+  ]
+}

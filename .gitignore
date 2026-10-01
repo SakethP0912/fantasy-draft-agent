@@ -1,0 +1,17 @@
+# Generated data and personal league/news settings stay on this machine.
+/data/
+/cheatsheet.csv
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+# Local agent/session state
+.codex/
+.agents/
+.gstack/
+.context/
